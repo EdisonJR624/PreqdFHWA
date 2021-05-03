@@ -3,7 +3,8 @@
 KAPassiveEarthPressure
 
 This script contains a program to show the tables with the values of the passive 
-earth pressure coefficients determined by Kerisel and ABSI
+earth pressure coefficients determined by Kerisel and ABSI, and gives the
+possibilitie to search it given some parameters
 
 Created on Mon Oct 12 09:05:48 2020
 
